@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kinggoz18 currently a Software Engineering student. 
+- 👋 Hi, I’m @Kinggoz18 Aspiring Software Engineering student. 
 - 👀 I’m interested in Application development.
 - 🌱 I’m currently learning Computer Science and specializing in Software Engineering at Trent University.
 - 💞️ I’m looking to collaborate on ...

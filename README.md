@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Kinggoz18 a junior developer. <br>👀 I’m interested in application development and system design.<br>💞️ I’m looking to collaborate<br>📫 Email me at cmuonagolu18@gmail.com<br>
+👋 Hi, I’m @Kinggoz18 a software developer. <br>👀 I’m interested in system design, solutions and developing business management tools, ERP's CRM's and CMS's.<br>I’m open to collaboration<br>📫 Email me at cmuonagolu18@gmail.com<br>
 
 
 ## 🌐 Socials:
